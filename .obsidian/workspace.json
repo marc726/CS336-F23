@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "c3e078206bef29eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "84a6227c7d772729",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f7fb370bb4814cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS336-F23/ER Diagram.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6ea354da63cd5e5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a636e566e683106",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79cc37d90e15955e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d35430673e5589c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "88e194b81bd3ee2c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "a1f339606f01d66d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "69ef7dd438543607",
+    "type": "split",
+    "children": [
+      {
+        "id": "05bb09269668a0ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2eeb35a67b3c49df",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CS336-F23/ER Diagram.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a7ed3268e182e5a4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CS336-F23/ER Diagram.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bc1839fb83ec3ba8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5168a1aad544279e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CS336-F23/ER Diagram.md"
+              }
+            }
+          },
+          {
+            "id": "6efa35c6f4cef5d1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "79cc37d90e15955e",
+  "lastOpenFiles": [
+    "CS336-F23/Untitled/Pasted image 20230920222618.png",
+    "CS336-F23/Untitled/Pasted image 20230920222528.png",
+    "CS336-F23/Untitled/Pasted image 20230920222300.png",
+    "CS336-F23/Untitled/Pasted image 20230920220949.png",
+    "CS336-F23/Untitled/Pasted image 20230920215117.png",
+    "CS336-F23/Untitled/Pasted image 20230920214432.png",
+    "CS336-F23/Untitled/Pasted image 20230920213608.png",
+    "CS336-F23/Untitled/Pasted image 20230920213554.png",
+    "CS336-F23/Untitled/Pasted image 20230920213442.png",
+    "CS336-F23/Untitled/Pasted image 20230920213006.png",
+    "CS336-F23/Untitled/Pasted image 20230920212634.png",
+    "CS336-F23/Untitled/ER Diagram.md",
+    "CS336-F23/Untitled/CS336-F23",
+    "CS336-F23/Untitled",
+    "CS336",
+    "CS336-F23/ER Diagram.md",
+    "ER Diagram.md",
+    "Untitled",
+    "Weak Entity Sets.md",
+    "ISA Relationships.md",
+    "9.6.md"
+  ]
+}
