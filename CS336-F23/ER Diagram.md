@@ -32,6 +32,10 @@ Example of weak entity set in ER:
 
 ![[Pasted image 20230920213608.png]]
 
+Weak Entity sets also have relationship entries which are noted by: 
+
+![[Pasted image 20230921005607.png]]
+
 
 
 ![[Pasted image 20230920214432.png]]
