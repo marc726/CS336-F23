@@ -15,6 +15,8 @@ A relation: $R(f_1:D_1 , f_2:D_2 \; ... \; f_n:D_n)\; \leftarrow$ Schema of a re
 
 ### Common Domains
 
+Basically the type of values you store.
+
 - `int`
 - `float, double`
 - `char(n)` $\leftarrow$ n can not change. Good for instances of known char lengths (i.e. US phone numbers or SSNs)
