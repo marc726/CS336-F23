@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ebf62793f2de8b91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS336-F23/Relational Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS336-F23/ER Diagram.md",
+                "file": "CS336-F23/Relational Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS336-F23/ER Diagram.md",
+                "file": "CS336-F23/Relational Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS336-F23/ER Diagram.md"
+                "file": "CS336-F23/Relational Model.md"
               }
             }
           },
@@ -144,13 +157,23 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "ed5043b176286e12",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,24 +185,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "79cc37d90e15955e",
+  "active": "ebf62793f2de8b91",
   "lastOpenFiles": [
+    "CS336-F23/Pasted image 20230921003251.png",
+    "CS336-F23/Relational Model.md",
+    "CS336-F23/ER Diagram.md",
+    "CS336-F23/Pasted image 20230921001046.png",
+    "CS336-F23/Pasted image 20230920235532.png",
+    "Pasted image 20230920235456.png",
+    "Pasted image 20230920235431.png",
     "CS336-F23/Untitled/Pasted image 20230920222618.png",
     "CS336-F23/Untitled/Pasted image 20230920222528.png",
     "CS336-F23/Untitled/Pasted image 20230920222300.png",
     "CS336-F23/Untitled/Pasted image 20230920220949.png",
     "CS336-F23/Untitled/Pasted image 20230920215117.png",
-    "CS336-F23/Untitled/Pasted image 20230920214432.png",
-    "CS336-F23/Untitled/Pasted image 20230920213608.png",
-    "CS336-F23/Untitled/Pasted image 20230920213554.png",
-    "CS336-F23/Untitled/Pasted image 20230920213442.png",
-    "CS336-F23/Untitled/Pasted image 20230920213006.png",
-    "CS336-F23/Untitled/Pasted image 20230920212634.png",
     "CS336-F23/Untitled/ER Diagram.md",
     "CS336-F23/Untitled/CS336-F23",
     "CS336-F23/Untitled",
     "CS336",
-    "CS336-F23/ER Diagram.md",
     "ER Diagram.md",
     "Untitled",
     "Weak Entity Sets.md",

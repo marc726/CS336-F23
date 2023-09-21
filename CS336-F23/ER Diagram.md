@@ -58,12 +58,21 @@ A bolded line connecting an entity set to a relationship set indicates <u>total 
 
 ![[Pasted image 20230920222618.png]]
 
-Example w/ Reification:
+**Example w/ Reification:**
 
 ![[Pasted image 20230920222300.png]]
 
 ![[Pasted image 20230920222528.png]]
 
+### Hierarchy 
+
+
+![[Pasted image 20230920235532.png]]
 
 
 
+![[Pasted image 20230921001046.png]]
+
+
+* No isbn because we went from relationship to weak entity. A weak entity has what’s called a “partial key”. It’s one or more attributes that uniquely identify a weak entity for a given owner entity.
+* Book can have two primary keys to help uniquely identify it. 
