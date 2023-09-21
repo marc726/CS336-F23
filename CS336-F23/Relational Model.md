@@ -41,7 +41,7 @@ Example: `Students(sid:int, name:varchar(50), dob:date, address:varchar(100))
 - Domain constraints (Reject, Modified to satisfy the constraints)
 - Primary Key Constraint (No Duplicates)
 	Relational Model:
-		Primary key(_ , _ , _ )
+		Primary key(_ , _ , _ ) _(Primary key can be any amount. Below example there are two)_
 
 Example: 
 
