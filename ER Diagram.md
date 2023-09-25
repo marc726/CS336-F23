@@ -11,6 +11,7 @@ Primary keys are used as a unique identifier for each entity in a set.
 
 ![[Pasted image 20230920211318.png]]
 
+"One course is taught by many professors."
 ### ISA Relationships
 
 
